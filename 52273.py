@@ -8,6 +8,8 @@
 # Version: = 115.11
 # Tested on: Win, Ubuntu
 # CVE : CVE-2024-4367
+# CMD : python3 52273.py "alert(1)"
+# POC.PDF will be created. Use it for exploit.
 
 #!/usr/bin/env python3
 
